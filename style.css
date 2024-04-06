@@ -21,6 +21,7 @@ html,body{
   .topnav {
     background-color: #333;
     overflow: hidden;
+    margin-bottom: 100px;
   }
   
   /* Style the links inside the navigation bar */
