@@ -25,6 +25,7 @@ html,body{
     background-color: #333;
     overflow: hidden;
     margin-bottom: 100px;
+    flex-wrap: wrap;
   }
   
   /* Style the links inside the navigation bar */
