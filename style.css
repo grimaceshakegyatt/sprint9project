@@ -68,5 +68,8 @@ html,body{
   head{
     margin: 100px;
   }
-
+  @font-face{
+    font-family: uwu;
+src:url(./fonts/80erfinaldemo.ttf)
+  }
  
