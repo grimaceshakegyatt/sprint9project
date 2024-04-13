@@ -1,3 +1,7 @@
+@font-face{
+  font-family: uwu;
+src:url(./80erfinaldemo.ttf)
+}
 body{
     text-align: center;
     font-family: sans-serif;
@@ -70,8 +74,6 @@ html,body{
 
     margin: 100px;
   }
-  @font-face{
-    font-family: uwu;
-src:url(.80erfinaldemo.ttf)
-  }
+
+
  
