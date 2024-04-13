@@ -1,5 +1,4 @@
 body{
-  font-family: uwu;
     text-align: center;
     font-family: sans-serif;
     margin-bottom: 100px;
@@ -17,14 +16,12 @@ html,body{
     text-align: justify;
   }
   body{
-    font-family: uwu;
    background-color:  #333333;
   }
   .topnav {
     background-color: #333;
     overflow: hidden;
     margin-bottom: 100px;
-    font-family: uwu;
   }
   
   /* Style the links inside the navigation bar */
@@ -35,7 +32,7 @@ html,body{
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    font-family: uwu;
+
   }
   
   /* Change the color of links on hover */
@@ -66,12 +63,11 @@ html,body{
     color: rgb(255, 255, 255);
   }
   h1{
-    font-family: uwu;
     text-align: center;
   
   }
   head{
-    font-family: uwu;
+
     margin: 100px;
   }
   @font-face{
