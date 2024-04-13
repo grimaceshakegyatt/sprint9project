@@ -2,9 +2,15 @@
   font-family: uwu;
 src:url(80erfinaldemo.ttf)
 }
-body{
+.title {
+  font-family: uwu;
+}
+.title {
+  font-family: uwu;
+}
+head{
     text-align: center;
-    font-family: sans-serif;
+    font-family: uwu;
     margin-bottom: 100px;
 }
 html,body{
@@ -21,6 +27,7 @@ html,body{
   }
   body{
    background-color:  #333333;
+   font-family: uwu;
   }
   .topnav {
     background-color: #333;
