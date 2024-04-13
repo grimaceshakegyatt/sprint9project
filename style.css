@@ -1,7 +1,12 @@
 
+@font-face{
+  font-family: uwu;
+  src:url(Puffy.otf)
+}
+
 head{
     text-align: center;
-    font-family: sans-serif;
+    font-family: uwu;
     margin-bottom: 100px;
 }
 html,body{
@@ -19,8 +24,8 @@ html,body{
   body{
    background-color:  #333333;
    text-align: center;
-   font-family: sans-serif;
-   
+   font-family: uwu;
+   align-items: center;
   }
   .topnav {
     background-color: #333;
