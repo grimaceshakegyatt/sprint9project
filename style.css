@@ -8,6 +8,7 @@ head{
     text-align: center;
     font-family: uwu;
     margin-bottom: 100px;
+    align-items: center;
 }
 html,body{
     display: grid;
