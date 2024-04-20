@@ -13,6 +13,7 @@ html,body{
     display: grid;
     height: 80%;
     background-color: rgba(45, 43, 43, 0.897);
+    align-items: center;
   }
   html {
     height: 100%;
