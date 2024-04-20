@@ -6,5 +6,5 @@ function playSound() {
     soundName.play()
 }
 function playMusic(){
-
+music.play()
 }
