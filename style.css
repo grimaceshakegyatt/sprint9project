@@ -15,6 +15,7 @@ html,body{
     height: 80%;
     background-color: rgba(45, 43, 43, 0.897);
     align-items: center;
+    align-content: center;
   }
   html {
     height: 100%;
