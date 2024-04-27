@@ -1,6 +1,6 @@
 const soundName = new Audio("boop.mp3");
 const music = new Audio("epic.mp3")
-const craok = new Audio("croak.mp3")
+const croak = new Audio("croak.mp3")
 window.addEventListener("load", playSound)
     boop.play();
 function playSound() {
