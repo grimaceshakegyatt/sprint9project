@@ -20,3 +20,6 @@ function laffEvil(){
 function beatBox(){
 beatbox.play()
 }
+function stopMusic(){
+    music.pause()
+}
