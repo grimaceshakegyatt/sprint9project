@@ -5,6 +5,7 @@ const evil = new Audio("haha.mp3")
 const beatbox = new Audio("rngbeatbox.mp3")
 const pipe = new Audio("wamp.mp3")
 const milk = new Audio("milk.mp3")
+const cinderblock = new Audio("cinderblock 2.mp3")
 window.addEventListener("load", playSound)
     boop.play();
 function playSound() {
@@ -30,4 +31,7 @@ function metalPipe(){
 }
 function gotMilk(){
     milk.play()
+}
+function heyWatson(){
+    cinderblock.play()
 }
